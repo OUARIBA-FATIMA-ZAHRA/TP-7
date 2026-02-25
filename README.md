@@ -1,0 +1,23 @@
+TP 7 : Activer le 2nd-level cache, mesurer avant/après, supprimer N+1 via JOIN FETCH et entity graph
+<img width="1871" height="900" alt="Capture d&#39;écran 2026-02-25 201125" src="https://github.com/user-attachments/assets/3548ae93-562a-4adf-ad66-221b012f4510" />
+<img width="1068" height="725" alt="Capture d&#39;écran 2026-02-25 201135" src="https://github.com/user-attachments/assets/5d492e0e-6336-430c-83d9-2cf7ad93825b" />
+<img width="1868" height="931" alt="Capture d&#39;écran 2026-02-25 201146" src="https://github.com/user-attachments/assets/417b1168-c2c7-41ff-922f-20128507568d" />
+<img width="1876" height="936" alt="Capture d&#39;écran 2026-02-25 201155" src="https://github.com/user-attachments/assets/47b45003-8999-46cb-bb9d-46b198cd49e2" />
+<img width="1863" height="930" alt="Capture d&#39;écran 2026-02-25 201204" src="https://github.com/user-attachments/assets/505c35e1-0d95-433a-bb18-f8a29fd31b60" />
+<img width="1269" height="922" alt="Capture d&#39;écran 2026-02-25 201216" src="https://github.com/user-attachments/assets/c64e086a-56ef-427a-aace-ec9f3986ef3c" />
+<img width="989" height="928" alt="Capture d&#39;écran 2026-02-25 201224" src="https://github.com/user-attachments/assets/036b42c3-fd9b-47a0-876f-06ea852fe05f" />
+<img width="960" height="935" alt="Capture d&#39;écran 2026-02-25 201230" src="https://github.com/user-attachments/assets/67e36546-c5f1-4882-b31f-6bbe5ea14f6b" />
+<img width="950" height="928" alt="Capture d&#39;écran 2026-02-25 201238" src="https://github.com/user-attachments/assets/1018fc18-a2b4-421f-8f21-0528e0ddfc5c" />
+<img width="956" height="932" alt="Capture d&#39;écran 2026-02-25 201245" src="https://github.com/user-attachments/assets/15a690d3-abc5-453f-affc-f67823974e54" />
+<img width="927" height="923" alt="Capture d&#39;écran 2026-02-25 201253" src="https://github.com/user-attachments/assets/594350d7-f071-48a0-93d1-7301892a04e4" />
+<img width="952" height="942" alt="Capture d&#39;écran 2026-02-25 201300" src="https://github.com/user-attachments/assets/02715138-324f-4c81-97d9-5438dc940d24" />
+<img width="1002" height="937" alt="Capture d&#39;écran 2026-02-25 201310" src="https://github.com/user-attachments/assets/91a5e817-2f13-4991-952b-fe9458f6696c" />
+<img width="876" height="930" alt="Capture d&#39;écran 2026-02-25 201316" src="https://github.com/user-attachments/assets/c42bb9ef-d564-442e-91c4-ce05556ea694" />
+<img width="922" height="936" alt="Capture d&#39;écran 2026-02-25 201322" src="https://github.com/user-attachments/assets/4dc5f06d-531f-473c-a36a-21bfcc71f683" />
+<img width="809" height="867" alt="Capture d&#39;écran 2026-02-25 201329" src="https://github.com/user-attachments/assets/87de1bd1-758c-4fa9-84b1-ca3a9f824dbf" />
+<img width="832" height="933" alt="Capture d&#39;écran 2026-02-25 201335" src="https://github.com/user-attachments/assets/87dc5801-ca69-4200-9e79-4dd1b06affc1" />
+<img width="990" height="936" alt="Capture d&#39;écran 2026-02-25 201344" src="https://github.com/user-attachments/assets/7266c1f4-3fdf-4f28-825b-ab63e784f2f4" />
+<img width="919" height="938" alt="Capture d&#39;écran 2026-02-25 201351" src="https://github.com/user-attachments/assets/9894315d-130b-4bab-be6c-37f3f497cee9" />
+<img width="957" height="934" alt="Capture d&#39;écran 2026-02-25 201358" src="https://github.com/user-attachments/assets/1d580c35-4b2e-4df4-ae69-0aefa90094df" />
+<img width="1846" height="923" alt="Capture d&#39;écran 2026-02-25 201407" src="https://github.com/user-attachments/assets/9172e6bb-79f2-4715-82f9-67fc2afa1c1b" />
+<img width="1880" height="936" alt="Capture d&#39;écran 2026-02-25 201416" src="https://github.com/user-attachments/assets/d686d952-5c49-4344-be93-e226539e14e4" />
