@@ -28,4 +28,4 @@ Les entités sont insérées dans la base avec des relations correctement établ
 
 Les caches Ehcache sont configurés par défaut, avec quelques avertissements sur les stratégies de cache.
 
-Résultat final : données insérées avec succès et connexion correctement fermée.
+Après l’insertion des données, la session se termine et les tables sont supprimées (mode mémoire).
