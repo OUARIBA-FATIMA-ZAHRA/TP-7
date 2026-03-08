@@ -20,6 +20,8 @@
 <img width="957" height="934" alt="Capture d&#39;écran 2026-02-25 201358" src="https://github.com/user-attachments/assets/1d580c35-4b2e-4df4-ae69-0aefa90094df" />
 <img width="1846" height="923" alt="Capture d&#39;écran 2026-02-25 201407" src="https://github.com/user-attachments/assets/9172e6bb-79f2-4715-82f9-67fc2afa1c1b" />
 <img width="1880" height="936" alt="Capture d&#39;écran 2026-02-25 201416" src="https://github.com/user-attachments/assets/d686d952-5c49-4344-be93-e226539e14e4" />
+
+
 ## Résultat:
 
 Hibernate initialise les tables Auteur, Livre, Categorie et la table de liaison livre_categorie.
