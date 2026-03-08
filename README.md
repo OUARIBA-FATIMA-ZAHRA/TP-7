@@ -1,5 +1,4 @@
-TP 7 : Activer le 2nd-level cache, mesurer avant/après, supprimer N+1 via JOIN FETCH et entity graph
-<img width="1871" height="900" alt="Capture d&#39;écran 2026-02-25 201125" src="https://github.com/user-attachments/assets/3548ae93-562a-4adf-ad66-221b012f4510" />
+# TP 7 : Activer le 2nd-level cache, mesurer avant/après, supprimer N+1 via JOIN FETCH et entity graph
 <img width="1068" height="725" alt="Capture d&#39;écran 2026-02-25 201135" src="https://github.com/user-attachments/assets/5d492e0e-6336-430c-83d9-2cf7ad93825b" />
 <img width="1868" height="931" alt="Capture d&#39;écran 2026-02-25 201146" src="https://github.com/user-attachments/assets/417b1168-c2c7-41ff-922f-20128507568d" />
 <img width="1876" height="936" alt="Capture d&#39;écran 2026-02-25 201155" src="https://github.com/user-attachments/assets/47b45003-8999-46cb-bb9d-46b198cd49e2" />
@@ -21,3 +20,12 @@ TP 7 : Activer le 2nd-level cache, mesurer avant/après, supprimer N+1 via JOIN 
 <img width="957" height="934" alt="Capture d&#39;écran 2026-02-25 201358" src="https://github.com/user-attachments/assets/1d580c35-4b2e-4df4-ae69-0aefa90094df" />
 <img width="1846" height="923" alt="Capture d&#39;écran 2026-02-25 201407" src="https://github.com/user-attachments/assets/9172e6bb-79f2-4715-82f9-67fc2afa1c1b" />
 <img width="1880" height="936" alt="Capture d&#39;écran 2026-02-25 201416" src="https://github.com/user-attachments/assets/d686d952-5c49-4344-be93-e226539e14e4" />
+## Résultat:
+
+Hibernate initialise les tables Auteur, Livre, Categorie et la table de liaison livre_categorie.
+
+Les entités sont insérées dans la base avec des relations correctement établies.
+
+Les caches Ehcache sont configurés par défaut, avec quelques avertissements sur les stratégies de cache.
+
+Résultat final : données insérées avec succès et connexion correctement fermée.
